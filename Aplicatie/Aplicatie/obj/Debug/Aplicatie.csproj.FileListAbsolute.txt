@@ -1,0 +1,26 @@
+C:\Users\Sorina\Desktop\workspaceC#\Aplicatie\Aplicatie\Aplicatie\bin\Debug\Aplicatie.exe.config
+C:\Users\Sorina\Desktop\workspaceC#\Aplicatie\Aplicatie\Aplicatie\bin\Debug\Aplicatie.exe
+C:\Users\Sorina\Desktop\workspaceC#\Aplicatie\Aplicatie\Aplicatie\bin\Debug\Aplicatie.pdb
+C:\Users\Sorina\Desktop\workspaceC#\Aplicatie\Aplicatie\Aplicatie\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Sorina\Desktop\workspaceC#\Aplicatie\Aplicatie\Aplicatie\bin\Debug\Guna.UI2.dll
+C:\Users\Sorina\Desktop\workspaceC#\Aplicatie\Aplicatie\Aplicatie\obj\Debug\Aplicatie.csproj.AssemblyReference.cache
+C:\Users\Sorina\Desktop\workspaceC#\Aplicatie\Aplicatie\Aplicatie\obj\Debug\Aplicatie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sorina\Desktop\workspaceC#\Aplicatie\Aplicatie\Aplicatie\obj\Debug\Aplicatie.Form1.resources
+C:\Users\Sorina\Desktop\workspaceC#\Aplicatie\Aplicatie\Aplicatie\obj\Debug\Aplicatie.Properties.Resources.resources
+C:\Users\Sorina\Desktop\workspaceC#\Aplicatie\Aplicatie\Aplicatie\obj\Debug\Aplicatie.csproj.GenerateResource.cache
+C:\Users\Sorina\Desktop\workspaceC#\Aplicatie\Aplicatie\Aplicatie\obj\Debug\Aplicatie.csproj.CoreCompileInputs.cache
+C:\Users\Sorina\Desktop\workspaceC#\Aplicatie\Aplicatie\Aplicatie\obj\Debug\Aplicatie.csproj.CopyComplete
+C:\Users\Sorina\Desktop\workspaceC#\Aplicatie\Aplicatie\Aplicatie\obj\Debug\Aplicatie.exe
+C:\Users\Sorina\Desktop\workspaceC#\Aplicatie\Aplicatie\Aplicatie\obj\Debug\Aplicatie.pdb
+C:\Users\user\Desktop\AM 3 SEM 2\Aplicatie\Aplicatie\bin\Debug\Aplicatie.exe.config
+C:\Users\user\Desktop\AM 3 SEM 2\Aplicatie\Aplicatie\bin\Debug\Aplicatie.exe
+C:\Users\user\Desktop\AM 3 SEM 2\Aplicatie\Aplicatie\bin\Debug\Aplicatie.pdb
+C:\Users\user\Desktop\AM 3 SEM 2\Aplicatie\Aplicatie\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\AM 3 SEM 2\Aplicatie\Aplicatie\obj\Debug\Aplicatie.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AM 3 SEM 2\Aplicatie\Aplicatie\obj\Debug\Aplicatie.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\AM 3 SEM 2\Aplicatie\Aplicatie\obj\Debug\Aplicatie.Properties.Resources.resources
+C:\Users\user\Desktop\AM 3 SEM 2\Aplicatie\Aplicatie\obj\Debug\Aplicatie.csproj.GenerateResource.cache
+C:\Users\user\Desktop\AM 3 SEM 2\Aplicatie\Aplicatie\obj\Debug\Aplicatie.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AM 3 SEM 2\Aplicatie\Aplicatie\obj\Debug\Aplicatie.exe
+C:\Users\user\Desktop\AM 3 SEM 2\Aplicatie\Aplicatie\obj\Debug\Aplicatie.pdb
+C:\Users\user\Desktop\AM 3 SEM 2\Aplicatie\Aplicatie\obj\Debug\Aplicatie.FrmLogin.resources
